@@ -36,6 +36,7 @@ runs:
 
     - name: Setup maven repo
       uses: s4u/maven-settings-action@v2.6.0
+      if: ${{ inputs.perform_deploy }}
       with:
         servers: |
           [{
