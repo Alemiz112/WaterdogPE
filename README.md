@@ -1,4 +1,4 @@
-# WaterdogPE
+# WaterdogPE Test
 [![Build Status](https://jenkins.waterdog.dev/buildStatus/icon?job=Waterdog%2FWaterdogPE%2Fmaster)](https://jenkins.waterdog.dev/job/Waterdog/job/WaterdogPE/job/master/)
 [![Discord Chat](https://img.shields.io/discord/767330242078834712.svg)](https://discord.gg/QcRRzXX)
 
